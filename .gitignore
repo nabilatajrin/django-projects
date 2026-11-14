@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+myvenv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Django
+*.log
+local_settings.py
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Vagrant
+.vagrant/
